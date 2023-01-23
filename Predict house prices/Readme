@@ -1,1 +1,4 @@
 The project aims to predict the house prices based on the house features.
+
+The data used in the model is the "train.csv" file as in the folder. The data is from Kaggle: 
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
